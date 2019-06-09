@@ -2,15 +2,16 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Abiola',
+  subtitle:
+    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Musings',
       path: '/'
     },
     {
@@ -23,14 +24,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Abiola Adebanjo',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio:
+      'A Software Engineer passionate about technology as well as passing on knowledge to others.',
     contacts: {
-      email: '#',
+      email: 'hi@abiola.dev',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '@kreativecoder',
+      github: 'kreativecoder',
       rss: '#',
       vkontakte: '#'
     }
